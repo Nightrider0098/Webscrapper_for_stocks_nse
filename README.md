@@ -21,7 +21,7 @@ Prerequisits
 File Structure
 
 HomeDir
-├───company
+├───companyi
 ├───nifty
 ├───temp
 └───turnover
