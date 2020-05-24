@@ -20,11 +20,7 @@ Prerequisits
 
 File Structure
 
-HomeDir
-├───companyi
-├───nifty
-├───temp
-└───turnover
+HomeDir=>{company,nifty,temp,turnover}
 
 1.  Company-
           ---contains abstracted data of each company listed in Nifty50 
